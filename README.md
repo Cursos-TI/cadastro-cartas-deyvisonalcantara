@@ -49,4 +49,4 @@ O programa cadastra duas cartas de cidades, calcula seus atributos e permite com
 
 ### 1️⃣ No VS Code ou Codespace:
 ```bash
-gcc super_trunfo_mestre.c -o super_trunfo_mestre
+gcc CartasSuperTrunfo.c -o  CartasSuperTrunfo
